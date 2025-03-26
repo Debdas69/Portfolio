@@ -19,13 +19,18 @@
     "title": "Node",
     "imageSrc": "company/node.png"
   },
+  
+  {
+    "title": "PHP",
+    "imageSrc": "company/php1.png"
+  },
   {
     "title":"Firebase",
     "imageSrc":"company/firebase.png"
   },
   {
-    "title": "GraphQL",
-    "imageSrc": "company/graphql.png"
+    "title": "Wordpress",
+    "imageSrc": "company/wordpress.png"
   },
   {
     "title": "MongoDB",

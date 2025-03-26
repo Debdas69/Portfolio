@@ -19,7 +19,7 @@ function App() {
     <Navbar/>
     <div className="container">
     <Home/>
-    <Experience/>
+    {/* <Experience/> */}
     <Skills/>
     <Projects/>
     <Contact/>
